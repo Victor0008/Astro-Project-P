@@ -28,7 +28,7 @@ header {
 
 main{
   text-align: center;
-  height: 300em;
+  height: 126em;
   text-align: justify;
   padding: 20px;
   background-color: #140f4C;
@@ -58,3 +58,7 @@ align-content:space-around  ;
 p {
   color: #FFEFB7;
 }
+
+img {
+  width: 50%;
+height: auto;}
